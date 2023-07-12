@@ -5,6 +5,7 @@
             <el-button slot="a">jie</el-button>
             <el-button slot="b">hua</el-button>
             <el-button slot="c">fa</el-button>
+            这是用来测试 提交到远程仓库dev的
         </moduleA>
         <moduleB></moduleB>
     </div>
